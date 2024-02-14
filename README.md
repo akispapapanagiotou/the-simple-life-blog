@@ -10,5 +10,5 @@ The simple life blog is a blog that explores minimalism in life. It was made dur
 ## Links:
 Live site: https://the-simple-life-blog.netlify.app/
 ## Built with:
-* HTML
+* HTML5
 * CSS
